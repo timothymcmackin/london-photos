@@ -20,8 +20,9 @@
 
 title: Tim's photos from London and Paris
 baseurl: "/london-photos" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://timothymcmackin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  timothymcmackin
+repository: timothymcmackin/london-photos
 
 # Build settings
 # theme: minima
